@@ -1,8 +1,6 @@
 # Unreal Engine 4 Game Development Quick Start Guide
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Unreal Engine 4 Game Development Quick Start Guide" height="256px" align="right"></a>
-
-This is the code repository for [Hands-On Web Scraping with Python](Packt UTM URL of the Book), published by Packt.
+This is the code repository for Hands-On Web Scraping with Python, published by Packt.
 
 **Programming professional 3D games with Unreal Engine 4**
 
