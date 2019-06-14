@@ -56,7 +56,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ### Related products <Other books you may enjoy>
-* Unreal Engine Blueprints Visual Scripting Projects [[Packt]](https://www.packtpub.com/game-development/unreal-engine-blueprints-visual-scripting-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789532425) [[Amazon]](https://www.amazon.com/dp/1789532426_)
+* Unreal Engine Blueprints Visual Scripting Projects [[Packt]](https://www.packtpub.com/game-development/unreal-engine-blueprints-visual-scripting-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789532425) [[Amazon]](https://www.amazon.com/dp/1789532426)
 
 
 ## Get to Know the Author
